@@ -14,7 +14,7 @@ The code is organized to separate reusable utilities, data-generation tutorials,
 
 ## Data
 
-The data required by `reproduce_figures.ipynb` should be downloaded from the associated Zenodo record.
+The data required by `reproduce_figures.ipynb` should be downloaded from the associated Zenodo record, https://doi.org/10.5281/zenodo.20399163.
 
 ## Recommended workflow
 
