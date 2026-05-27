@@ -11,6 +11,7 @@ The code is organized to separate reusable utilities, data-generation tutorials,
 - `online_amplitude_encoding_tutorial.ipynb`: tutorial notebook showing how to construct the online amplitude-encoding protocol and generate data.
 - `reproduce_figures.ipynb`: notebook that loads precomputed data and reproduces the paper figures.
 - `online_FN_qrc_env.yml`: conda environment file listing the required Python packages and versions.
+- `sk_Santa_Fe_2000.npy`: Santa Fe dataset.
 
 ## Data
 
